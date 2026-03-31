@@ -108,7 +108,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          title: "Best Club Ever!",          quote: "The energy here is unmatched. I love the music selection every weekend.",          name: "Alex R.",          role: "Regular Dancer",          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg"},
+          id: "1",          title: "Best Club Ever!",          quote: "The energy here is unmatched. I love the music selection every weekend.",          name: "Alex R.",          role: "Regular Dancer",          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg?_wi=1"},
         {
           id: "2",          title: "Amazing Sound!",          quote: "Absolutely top-tier sound system. You can feel the beat in your soul.",          name: "Sarah L.",          role: "Party Guest",          imageSrc: "https://pixabay.com/get/g6a4e99c5b899e1aaf97cb414686f27c3a73554d59c2c89cdf14f35c5af29237518803c73d511214b9122355764f8ec145afa178747adf11052eb5dae1f326105_1280.jpg"},
         {
@@ -116,7 +116,7 @@ export default function LandingPage() {
         {
           id: "4",          title: "Unforgettable Nights",          quote: "BEst provides the best nightlife vibes in town. I never miss a Friday.",          name: "Jessica W.",          role: "Dance Fan",          imageSrc: "https://pixabay.com/get/g65ac1736098824df4890e6cc686a2ace151454abd50e6f8bac1b7bd70db570ac5f2cd51e34a1f793c43d767de92b06af754527fc62d5dd6c0a85da1d196bd762_1280.jpg"},
         {
-          id: "5",          title: "Top Tier Vibes",          quote: "Every visit feels like a new adventure. The staff is incredible.",          name: "Tom K.",          role: "Regular",          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg"},
+          id: "5",          title: "Top Tier Vibes",          quote: "Every visit feels like a new adventure. The staff is incredible.",          name: "Tom K.",          role: "Regular",          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg?_wi=2"},
       ]}
       title="Voices of the Club"
       description="Hear what our dancers are saying about BEst."
