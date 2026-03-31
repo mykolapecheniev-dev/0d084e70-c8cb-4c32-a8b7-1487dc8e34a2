@@ -61,23 +61,23 @@ export default function LandingPage() {
       tag="Your Night Starts Here"
       mediaItems={[
         {
-          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg?_wi=1",
           imageAlt: "Club Atmosphere",
         },
         {
-          imageSrc: "https://pixabay.com/get/g89d6736e62409655503edc9cc652c87c3f6e5cbc16e44cbf5626f110790a39f789744bfdd6bbc3961e1437b7002c7fed1a40f9744c8790f5c1a591ec961c170c_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g89d6736e62409655503edc9cc652c87c3f6e5cbc16e44cbf5626f110790a39f789744bfdd6bbc3961e1437b7002c7fed1a40f9744c8790f5c1a591ec961c170c_1280.jpg?_wi=1",
           imageAlt: "Nightclub Energy",
         },
         {
-          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg?_wi=2",
           imageAlt: "Dance Floor View",
         },
         {
-          imageSrc: "https://pixabay.com/get/g89d6736e62409655503edc9cc652c87c3f6e5cbc16e44cbf5626f110790a39f789744bfdd6bbc3961e1437b7002c7fed1a40f9744c8790f5c1a591ec961c170c_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g89d6736e62409655503edc9cc652c87c3f6e5cbc16e44cbf5626f110790a39f789744bfdd6bbc3961e1437b7002c7fed1a40f9744c8790f5c1a591ec961c170c_1280.jpg?_wi=2",
           imageAlt: "DJ Performance",
         },
         {
-          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g4d91b7e00e6d4c3cdd43fea220788e8b34d607256bc1ca4469bc2995342cf2c4297de7a997537283ec2fc03c4d040de4_1280.jpg?_wi=3",
           imageAlt: "Party Crowd",
         },
       ]}
@@ -156,7 +156,7 @@ export default function LandingPage() {
           quote: "The energy here is unmatched. I love the music selection every weekend.",
           name: "Alex R.",
           role: "Regular Dancer",
-          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg?_wi=1",
         },
         {
           id: "2",
@@ -188,7 +188,7 @@ export default function LandingPage() {
           quote: "Every visit feels like a new adventure. The staff is incredible.",
           name: "Tom K.",
           role: "Regular",
-          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g7036595570d52bf0d9ed1de7c98ed3f40e91b412dbae981057485873b9ed329c67bb3b9e1083f7990c0c25ec083621d68f7b364d3cf8ea3a6fea379422d93212_1280.jpg?_wi=2",
         },
       ]}
       title="Voices of the Club"
